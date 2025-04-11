@@ -29,7 +29,7 @@ A weather application built with **React**, **Tailwind CSS**, **MUI**, **Maps Ja
 ## 🔑 Setup & Installation
 1. **Clone the repo**:
      ```bash
-         git clone
+         git clone https://github.com/adnan179/weather_app.git
          cd weather_app
 2. **Install Dependencies:**
       ```bash
