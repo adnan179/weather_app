@@ -1,6 +1,6 @@
 # 🌦️ React Weather App
 
-A weather application built with **React**, **Tailwind CSS**, **MUI**, **Maps JavaScript API** and **OpenWeather API**. It fetches real-time weather data based on the user's **current location** or a selected city and displays it with clean visuals and extra information such as **temperature, humidity, pressure, wind**, **visibility**, **sunrise/sunset**, and an embedded **map**.
+A weather application built with **React**, **Tailwind CSS**, **MUI**, **Maps JavaScript API** and **OpenWeather API**. It fetches real-time weather data based on the user's **current location** or a selected city and displays it with clean visuals and extra information such as **temperature, humidity, pressure, wind**, **visibility**, and an embedded **map**.
 
 
 ## 🚀 Features
@@ -46,14 +46,13 @@ A weather application built with **React**, **Tailwind CSS**, **MUI**, **Maps Ja
 ![image](https://github.com/user-attachments/assets/3816f42d-d145-4a0f-ac16-f6ed6e893a62)
 
 ## 🌍 Data Source
-Powered by the OpenWeather API
+Powered by the OpenWeather API, Google Cloud Platform
 
 ## 🧠 Future Enhancements
 - 5-day weather forecast view
 - Hourly forecast
 - Dark/light theme toggle
 - User preference storage (e.g. last selected city)
-- Weather-based background visual
 
 ## ✨ Credits
 Built by Adnan Shaik
